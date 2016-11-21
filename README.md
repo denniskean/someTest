@@ -1,5 +1,7 @@
 # someTest
-Learning GitHub
+GitHub
+Learning how to GIT my Hubcaps
+
 Okay, about me...  I am too old to remember anything.  In fact I do not even remember why I came here.  
 Somehow I was looking for something about getting Hubcaps for my Old Oldsmobile and I ended up here on gitHub.  
 So, I started following the directions hoping that I could Git some free Hubcaps for my Olds.
